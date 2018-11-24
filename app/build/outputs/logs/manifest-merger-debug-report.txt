@@ -1,0 +1,228 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/miau/MapJava/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/miau/MapJava/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/miau/MapJava/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/miau/MapJava/app/src/main/AndroidManifest.xml:2:1-20:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/136fe4e05a1c5aa1b8f7b7e0a42e810e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/miau/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/201d668ed64ed9f1140a52f07fef8f58/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/1de7a4fbdfc739290ca82a8fe936c48c/AndroidManifest.xml:17:1-32:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/2b23e32c72e3c163cacf78b047535b53/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/b716c5f1d821582fb8c87e5bb14c9158/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/miau/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/6bae68aade6025658a846064c97bd679/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/miau/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/b396f01f616defba26a2a40fd258bda6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/miau/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/d88796d34a5728c8047d2d64e56c7667/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/0d9531824f669f9d4a7f465ddfd804de/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/217a05768211b0e2fbba24ea2eee1d84/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/4dc23ceabb049d5e5ee14f9b41cede82/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/5c6c743af2b82e8354a534268041817a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/5d83279d020f20514b791c7b4f229d1c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/b89deb6fb299a474859970c335dbff2e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/090eb2c5d30ee4e103a43347866ea869/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/b28fc478204a38a6c003c8395808930b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/46795cfe21cb53be30655ee8f6f9c87e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/7acdb76f7139dee8752b11ac0e0ed271/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/e44e4edd646696357fb1af00d565f9d1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/2d0227fe2fbc1c3310c91b507e864c5a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/54a03e91e234939595f525fdc70ef035/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/862a7154154f13336e9d66c4ba81a167/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d19be67434f1f0956fa3110b5bbed802/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/28c9f2a9df40c60908bfadb6c75ac8f9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/miau/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/931f9532897bc7c2f99109e2b5f107ad/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/miau/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/5c737b591ca64a0ef33c63f801fe42a7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/miau/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/edb712e007e31ab78bf47331d6a8ccb9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/miau/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6e6bba7b9d0678d157eda5cdf881b80f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/1d585b944caaf6c2184b4f97dbc5e135/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/c063de80ec84c45fd3dbfafca2efdeb9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/957cbd66dbeebd82fe2d59035f7db0c9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/miau/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/3c46e2c582cfe00159a0dc1a3c210817/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/bf3dfd85762e6cc8d58a20bd9c7921bb/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/miau/MapJava/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/miau/MapJava/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/miau/MapJava/app/src/main/AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from /Users/miau/MapJava/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /Users/miau/MapJava/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/miau/MapJava/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/miau/MapJava/app/src/main/AndroidManifest.xml
+		ADDED from /Users/miau/MapJava/app/src/main/AndroidManifest.xml:2:1-20:12
+		INJECTED from /Users/miau/MapJava/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/miau/MapJava/app/src/main/AndroidManifest.xml
+		ADDED from /Users/miau/MapJava/app/src/main/AndroidManifest.xml:2:1-20:12
+		INJECTED from /Users/miau/MapJava/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/miau/MapJava/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/miau/MapJava/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /Users/miau/MapJava/app/src/main/AndroidManifest.xml:5:22-76
+application
+ADDED from /Users/miau/MapJava/app/src/main/AndroidManifest.xml:7:5-18:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/miau/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/201d668ed64ed9f1140a52f07fef8f58/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/miau/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/201d668ed64ed9f1140a52f07fef8f58/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/1de7a4fbdfc739290ca82a8fe936c48c/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/1de7a4fbdfc739290ca82a8fe936c48c/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/miau/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/6bae68aade6025658a846064c97bd679/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/miau/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/6bae68aade6025658a846064c97bd679/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/miau/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/b396f01f616defba26a2a40fd258bda6/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/miau/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/b396f01f616defba26a2a40fd258bda6/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/miau/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/d88796d34a5728c8047d2d64e56c7667/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/miau/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/d88796d34a5728c8047d2d64e56c7667/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/0d9531824f669f9d4a7f465ddfd804de/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/0d9531824f669f9d4a7f465ddfd804de/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/217a05768211b0e2fbba24ea2eee1d84/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/217a05768211b0e2fbba24ea2eee1d84/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/862a7154154f13336e9d66c4ba81a167/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/862a7154154f13336e9d66c4ba81a167/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d19be67434f1f0956fa3110b5bbed802/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d19be67434f1f0956fa3110b5bbed802/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/862a7154154f13336e9d66c4ba81a167/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/miau/MapJava/app/src/main/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /Users/miau/MapJava/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/miau/MapJava/app/src/main/AndroidManifest.xml:8:42-87
+	android:icon
+		ADDED from /Users/miau/MapJava/app/src/main/AndroidManifest.xml:7:45-79
+	android:allowBackup
+		ADDED from /Users/miau/MapJava/app/src/main/AndroidManifest.xml:7:18-44
+	android:theme
+		ADDED from /Users/miau/MapJava/app/src/main/AndroidManifest.xml:9:36-67
+activity#com.example.miau.googlemap.MainActivity
+ADDED from /Users/miau/MapJava/app/src/main/AndroidManifest.xml:11:9-17:20
+	android:label
+		ADDED from /Users/miau/MapJava/app/src/main/AndroidManifest.xml:11:48-80
+	android:name
+		ADDED from /Users/miau/MapJava/app/src/main/AndroidManifest.xml:11:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/miau/MapJava/app/src/main/AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from /Users/miau/MapJava/app/src/main/AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from /Users/miau/MapJava/app/src/main/AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/miau/MapJava/app/src/main/AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from /Users/miau/MapJava/app/src/main/AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from /Users/miau/MapJava/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/miau/MapJava/app/src/main/AndroidManifest.xml
+INJECTED from /Users/miau/MapJava/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/136fe4e05a1c5aa1b8f7b7e0a42e810e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/136fe4e05a1c5aa1b8f7b7e0a42e810e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/miau/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/201d668ed64ed9f1140a52f07fef8f58/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/miau/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/201d668ed64ed9f1140a52f07fef8f58/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/1de7a4fbdfc739290ca82a8fe936c48c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/1de7a4fbdfc739290ca82a8fe936c48c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/2b23e32c72e3c163cacf78b047535b53/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/2b23e32c72e3c163cacf78b047535b53/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/b716c5f1d821582fb8c87e5bb14c9158/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/b716c5f1d821582fb8c87e5bb14c9158/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/miau/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/6bae68aade6025658a846064c97bd679/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/miau/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/6bae68aade6025658a846064c97bd679/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/miau/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/b396f01f616defba26a2a40fd258bda6/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/miau/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/b396f01f616defba26a2a40fd258bda6/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/miau/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/d88796d34a5728c8047d2d64e56c7667/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/miau/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/d88796d34a5728c8047d2d64e56c7667/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/0d9531824f669f9d4a7f465ddfd804de/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/0d9531824f669f9d4a7f465ddfd804de/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/217a05768211b0e2fbba24ea2eee1d84/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/217a05768211b0e2fbba24ea2eee1d84/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/4dc23ceabb049d5e5ee14f9b41cede82/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/4dc23ceabb049d5e5ee14f9b41cede82/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/5c6c743af2b82e8354a534268041817a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/5c6c743af2b82e8354a534268041817a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/5d83279d020f20514b791c7b4f229d1c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/5d83279d020f20514b791c7b4f229d1c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/b89deb6fb299a474859970c335dbff2e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/b89deb6fb299a474859970c335dbff2e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/090eb2c5d30ee4e103a43347866ea869/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/090eb2c5d30ee4e103a43347866ea869/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/b28fc478204a38a6c003c8395808930b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/b28fc478204a38a6c003c8395808930b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/46795cfe21cb53be30655ee8f6f9c87e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/46795cfe21cb53be30655ee8f6f9c87e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/7acdb76f7139dee8752b11ac0e0ed271/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/7acdb76f7139dee8752b11ac0e0ed271/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/e44e4edd646696357fb1af00d565f9d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/e44e4edd646696357fb1af00d565f9d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/2d0227fe2fbc1c3310c91b507e864c5a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/2d0227fe2fbc1c3310c91b507e864c5a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/54a03e91e234939595f525fdc70ef035/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/54a03e91e234939595f525fdc70ef035/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/862a7154154f13336e9d66c4ba81a167/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/862a7154154f13336e9d66c4ba81a167/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d19be67434f1f0956fa3110b5bbed802/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d19be67434f1f0956fa3110b5bbed802/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/28c9f2a9df40c60908bfadb6c75ac8f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/28c9f2a9df40c60908bfadb6c75ac8f9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/miau/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/931f9532897bc7c2f99109e2b5f107ad/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/miau/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/931f9532897bc7c2f99109e2b5f107ad/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/miau/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/5c737b591ca64a0ef33c63f801fe42a7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/miau/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/5c737b591ca64a0ef33c63f801fe42a7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/miau/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/edb712e007e31ab78bf47331d6a8ccb9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/miau/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/edb712e007e31ab78bf47331d6a8ccb9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/miau/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6e6bba7b9d0678d157eda5cdf881b80f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/miau/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6e6bba7b9d0678d157eda5cdf881b80f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/1d585b944caaf6c2184b4f97dbc5e135/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/1d585b944caaf6c2184b4f97dbc5e135/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/c063de80ec84c45fd3dbfafca2efdeb9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/c063de80ec84c45fd3dbfafca2efdeb9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/957cbd66dbeebd82fe2d59035f7db0c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/957cbd66dbeebd82fe2d59035f7db0c9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/miau/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/3c46e2c582cfe00159a0dc1a3c210817/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/miau/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/3c46e2c582cfe00159a0dc1a3c210817/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/bf3dfd85762e6cc8d58a20bd9c7921bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/bf3dfd85762e6cc8d58a20bd9c7921bb/AndroidManifest.xml:20:5-44
+INJECTED from /Users/miau/MapJava/app/src/main/AndroidManifest.xml
+INJECTED from /Users/miau/MapJava/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/0d9531824f669f9d4a7f465ddfd804de/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /Users/miau/MapJava/app/src/main/AndroidManifest.xml
+		ADDED from /Users/miau/MapJava/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/miau/MapJava/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/miau/MapJava/app/src/main/AndroidManifest.xml
+		ADDED from /Users/miau/MapJava/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/miau/MapJava/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:16.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/1de7a4fbdfc739290ca82a8fe936c48c/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/1de7a4fbdfc739290ca82a8fe936c48c/AndroidManifest.xml:23:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:16.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/1de7a4fbdfc739290ca82a8fe936c48c/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/1de7a4fbdfc739290ca82a8fe936c48c/AndroidManifest.xml:24:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/1de7a4fbdfc739290ca82a8fe936c48c/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/1de7a4fbdfc739290ca82a8fe936c48c/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/1de7a4fbdfc739290ca82a8fe936c48c/AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/miau/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/6bae68aade6025658a846064c97bd679/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/miau/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/6bae68aade6025658a846064c97bd679/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/miau/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/6bae68aade6025658a846064c97bd679/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/miau/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/6bae68aade6025658a846064c97bd679/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/miau/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/d88796d34a5728c8047d2d64e56c7667/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/miau/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/d88796d34a5728c8047d2d64e56c7667/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/miau/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/d88796d34a5728c8047d2d64e56c7667/AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/0d9531824f669f9d4a7f465ddfd804de/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/217a05768211b0e2fbba24ea2eee1d84/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/217a05768211b0e2fbba24ea2eee1d84/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/0d9531824f669f9d4a7f465ddfd804de/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/miau/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/0d9531824f669f9d4a7f465ddfd804de/AndroidManifest.xml:27:13-51
