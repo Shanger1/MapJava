@@ -3,4 +3,7 @@
     <string name="app_name">GoogleMap</string>
     <string name="welcome">Welcome in our application!</string>
     <string name="start">Start</string>
+    <string name="place">Place</string>
+    <string name="warning">Warning</string>
+    <string name="validate">You cannot add more than 2 places</string>
 </resources>
